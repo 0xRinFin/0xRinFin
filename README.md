@@ -6,7 +6,7 @@
 
   <h3>How many hours wasted:</h3>
   
-  [![Wakatime Hours Badge](https://wakatime.com/badge/user/e85af3bd-d740-4470-b8cf-a053b96b5d4b.svg?style=for-the-badge)](https://wakatime.com/@Rinney)
+  [![Wakatime Hours Badge](https://wakatime.com/badge/user/e85af3bd-d740-4470-b8cf-a053b96b5d4b.svg?style=for-the-badge&v=2)](https://wakatime.com/@Rinney)
   
 </div>
 
